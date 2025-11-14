@@ -1,0 +1,25 @@
+{
+  "name": "triangle-reconstruction-portal",
+  "version": "0.1.0",
+  "main": "App.js",
+  "private": true,
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "@react-native-firebase/app": "^23.5.0",
+    "@react-native-firebase/auth": "^23.5.0",
+    "@react-native-picker/picker": "2.11.1",
+    "@react-navigation/bottom-tabs": "^6.5.14",
+    "@react-navigation/native": "^6.1.6",
+    "expo": "^54.0.23",
+    "firebase": "^12.6.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "~4.16.0",
+    "zustand": "^4.3.9"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  }
+}

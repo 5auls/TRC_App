@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4826265555",
+    "project_id": "trc-customer-portal-app",
+    "storage_bucket": "trc-customer-portal-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4826265555:android:bbce706a96b40446aa2126",
+        "android_client_info": {
+          "package_name": "com.TRC.TRC_Customer_Portal_App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_f0g-Mj_NLW79CE91OZ3GF5IG09cl04Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

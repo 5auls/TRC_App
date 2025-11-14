@@ -1,0 +1,14 @@
+{
+  "name": "triangle-reconstruction-admin",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Admin console for Triangle Reconstruction customer portal",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0"
+  },
+  "scripts": {
+    "start": "echo 'Run using a bundler such as Vite or Create React App'"
+  }
+}
